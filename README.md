@@ -4,3 +4,5 @@
  <h2> Example:
  
  ![GitHub Logo](https://github.com/Dordy175/Tic-Tac-Toe/blob/main/images/play.PNG)
+ 
+ This is all about fixing compile and run-time errors, workin with loops, chars, if statements and functions.. ^^
